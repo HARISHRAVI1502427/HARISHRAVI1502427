@@ -2,6 +2,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 ## 🌐 About Me:
+
 I am a passionate and detail-oriented Web Developer with a strong foundation in front-end and back-end technologies. As a recent graduate, I bring a fresh perspective, eagerness to learn, and hands-on experience through academic projects and personal development initiatives. I specialize in creating responsive, user-friendly websites using HTML, CSS, JavaScript, and have basic knowledge of frameworks like React.js
 
 
