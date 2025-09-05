@@ -3,7 +3,7 @@
 </a>
 ## 🌐 About Me:
 
-I am a passionate and detail-oriented Web Developer with a strong foundation in front-end technologies. As a recent graduate, I bring a fresh perspective, eagerness to learn and hands-on experience through academic projects and personal development initiatives. I specialize in creating responsive, user-friendly websites using HTML, CSS, JavaScript, and have basic knowledge of frameworks like React.js
+I am a passionate and detail-oriented Web Developer with a strong foundation in front-end technologies. As a recent graduate, I bring a fresh perspective, eagerness to learn, and hands-on experience gained through academic projects and personal initiatives. I specialize in building responsive and user-friendly websites using HTML, CSS, and JavaScript, with working knowledge of modern frameworks such as React.js. I am enthusiastic about leveraging my skills to contribute to innovative projects and continuously expand my expertise in web development
 
 
 ## 🌐 Socials:
